@@ -76,3 +76,7 @@
 ## Operating System Specific
 
 - [centminmod/centminmod: CentOS Shell menu based Nginx LEMP web stack auto installer (GPLv3 licensed)](https://github.com/centminmod/centminmod)
+
+## Quick Reference
+
+- [carlospolop/hacktricks: Welcome to the page where you will find each trick/technique/whatever I have learnt in CTFs, real life apps, and reading researches and news.](https://github.com/carlospolop/hacktricks)
