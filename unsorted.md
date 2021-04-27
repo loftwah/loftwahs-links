@@ -72,9 +72,6 @@ https://github.com/OfficeDev/microsoft-teams-library-js
 ventoy/Ventoy: A new bootable USB solution.
 https://github.com/ventoy/Ventoy
 
-berty/berty: Berty is a secure peer-to-peer messaging app that works with or without internet access, cellular data or trust in the network
-https://github.com/berty/berty
-
 
 
 vimagick/dockerfiles: A collection of delicious docker recipes
@@ -97,8 +94,6 @@ https://github.com/oldratlee/useful-scripts
 Mettmett/docker-compose: Some examples of docker-compose stacks used on ComputerZ Solutions...
 https://github.com/Mettmett/docker-compose
 
-chatwoot/chatwoot: Open-source customer engagement suite, an alternative to Intercom, Zendesk, Salesforce Service Cloud etc. 🔥💬
-https://github.com/chatwoot/chatwoot
 
 facebook/docusaurus: Easy to maintain open source documentation websites.
 https://github.com/facebook/docusaurus
