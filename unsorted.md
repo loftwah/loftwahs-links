@@ -95,11 +95,8 @@ Mettmett/docker-compose: Some examples of docker-compose stacks used on Computer
 https://github.com/Mettmett/docker-compose
 
 
-facebook/docusaurus: Easy to maintain open source documentation websites.
-https://github.com/facebook/docusaurus
 
-PostHog/posthog: 🦔 PostHog is developer-friendly, open-source product analytics.
-https://github.com/PostHog/posthog
+
 
 sozu-proxy/sozu: Sōzu HTTP reverse proxy, configurable at runtime, fast and safe, built in Rust. It is awesome! Ping us on gitter to know more
 https://github.com/sozu-proxy/sozu
@@ -113,14 +110,9 @@ https://github.com/Ganapati/RsaCtfTool
 excalidraw/excalidraw: Virtual whiteboard for sketching hand-drawn like diagrams
 https://github.com/excalidraw/excalidraw
 
-johannesjo/super-productivity: To-do list & time tracker for programmers and other digital workers with Jira, Github, and Gitlab integration
-https://github.com/johannesjo/super-productivity
 
-prometheus/prometheus: The Prometheus monitoring system and time series database.
-https://github.com/prometheus/prometheus
 
-Redocly/redoc: 📘 OpenAPI/Swagger-generated API Reference Documentation
-https://github.com/Redocly/redoc
+
 
 jitsi/jitsi-meet: Jitsi Meet - Secure, Simple and Scalable Video Conferences that you use as a standalone app or embed in your web application.
 https://github.com/jitsi/jitsi-meet

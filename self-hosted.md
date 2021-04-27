@@ -27,7 +27,11 @@
 - [RasaHQ/rasa: 💬 Open source machine learning framework to automate text- and voice-based conversations: NLU, dialogue management, connect to Slack, Facebook, and more - Create chatbots and voice assistants](https://github.com/RasaHQ/rasa)
 - [chatwoot/chatwoot: Open-source customer engagement suite, an alternative to Intercom, Zendesk, Salesforce Service Cloud etc. 🔥💬](https://github.com/chatwoot/chatwoot)
 
-  #### IRC
+#### Documentation
+
+- [Redocly/redoc: 📘 OpenAPI/Swagger-generated API Reference Documentation](https://github.com/Redocly/redoc)
+- [facebook/docusaurus: Easy to maintain open source documentation websites.](https://github.com/facebook/docusaurus)
+#### IRC
 
 - [inspircd/inspircd: A modular C++ IRC server (ircd).](https://github.com/inspircd/inspircd)
 #### Zammad
@@ -49,13 +53,13 @@
 - [cytopia/devilbox: A modern Docker LAMP stack and MEAN stack for local development](https://github.com/cytopia/devilbox)
 - - [containrrr/watchtower: A process for automating Docker container base image updates.](https://github.com/containrrr/watchtower)
 
-### Monitoring
+### Monitoring, Metrics and Insights
 
 - [netdata/netdata: Real-time performance monitoring, done right!](https://github.com/netdata/netdata)
 - [getsentry/sentry: Sentry is cross-platform application monitoring, with a focus on error reporting.](https://github.com/getsentry/sentry)
 - [Countly/countly-server: Countly helps you get insights from your application. Available self-hosted or on private cloud.](https://github.com/Countly/countly-server)
 - [PostHog/posthog: 🦔 PostHog is developer-friendly, open-source product analytics.](https://github.com/PostHog/posthog)
-
+- [prometheus/prometheus: The Prometheus monitoring system and time series database.](https://github.com/prometheus/prometheus)
 
 ### Security
 
@@ -106,6 +110,10 @@ Infrastructure as Code section.
 ### Tools and Utilities
 
 This section is for tools and utilities that we are likely to use.
+
+#### Graphical Interface Apps
+
+- [johannesjo/super-productivity: To-do list & time tracker for programmers and other digital workers with Jira, Github, and Gitlab integration](https://github.com/johannesjo/super-productivity)
 
 #### Docker
 
