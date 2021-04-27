@@ -14,12 +14,18 @@
 - [n8n-io/n8n: Free and open fair-code licensed node based Workflow Automation Tool. Easily automate tasks across different services.](https://github.com/n8n-io/n8n)
 - [backstage/backstage: Backstage is an open platform for building developer portals](https://github.com/backstage/backstage)
 - [keycloak/keycloak: Open Source Identity and Access Management For Modern Applications and Services](https://github.com/keycloak/keycloak)
-- - [moul/sshportal: simple, fun and transparent SSH (and telnet) bastion server](https://github.com/moul/sshportal)
+- [moul/sshportal: simple, fun and transparent SSH (and telnet) bastion server](https://github.com/moul/sshportal)
+- [glpi-project/glpi: GLPI is a Free Asset and IT Management Software package, Data center management, ITIL Service Desk, licenses tracking and software auditing.](https://github.com/glpi-project/glpi)
+- [mengshukeji/Luckysheet: Luckysheet is an online spreadsheet like excel that is powerful, simple to configure, and completely open source.](https://github.com/mengshukeji/Luckysheet)
+- [mindsdb/mindsdb: Predictive AI layer for existing databases.](https://github.com/mindsdb/mindsdb)
+
 
 ### ChatOps
 
 - [LiveHelperChat/livehelperchat: Live Helper Chat - live support for your website. Featuring web and mobile apps, Voice & Video & ScreenShare. Supports Telegram, Twilio (whatsapp), Facebook messenger including building a bot.](https://github.com/LiveHelperChat/livehelperchat) | [Live Helper Chat - live support](https://demo.livehelperchat.com/)
-  [berty/berty: Berty is a secure peer-to-peer messaging app that works with or without internet access, cellular data or trust in the network](https://github.com/berty/berty)
+- [berty/berty: Berty is a secure peer-to-peer messaging app that works with or without internet access, cellular data or trust in the network](https://github.com/berty/berty)
+- [RasaHQ/rasa: 💬 Open source machine learning framework to automate text- and voice-based conversations: NLU, dialogue management, connect to Slack, Facebook, and more - Create chatbots and voice assistants](https://github.com/RasaHQ/rasa)
+- [chatwoot/chatwoot: Open-source customer engagement suite, an alternative to Intercom, Zendesk, Salesforce Service Cloud etc. 🔥💬](https://github.com/chatwoot/chatwoot)
 
   #### IRC
 
@@ -47,6 +53,9 @@
 
 - [netdata/netdata: Real-time performance monitoring, done right!](https://github.com/netdata/netdata)
 - [getsentry/sentry: Sentry is cross-platform application monitoring, with a focus on error reporting.](https://github.com/getsentry/sentry)
+- [Countly/countly-server: Countly helps you get insights from your application. Available self-hosted or on private cloud.](https://github.com/Countly/countly-server)
+- [PostHog/posthog: 🦔 PostHog is developer-friendly, open-source product analytics.](https://github.com/PostHog/posthog)
+
 
 ### Security
 
