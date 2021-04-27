@@ -2,13 +2,14 @@
 
 ## Applications
 
-- [kylemanna/docker-openvpn: 🔒 OpenVPN server in a Docker container complete with an EasyRSA PKI CA](https://github.com/kylemanna/docker-openvpn)
-- [nextcloud/docker: ⛴ Docker image of Nextcloud](https://github.com/nextcloud/docker)
+- [kylemanna/docker-openvpn: <span class="emoji-outer emoji-sizer"><span class="emoji-inner" style="background: url(chrome-extension://gaoflciahikhligngeccdecgfjngejlh/emoji-data/sheet_apple_32.png);background-position:53.99529964747356% 73.97179788484137%;background-size:5418.75% 5418.75%" data-codepoints="1f512"></span></span> OpenVPN server in a Docker container complete with an EasyRSA PKI CA](https://github.com/kylemanna/docker-openvpn)
+- [nextcloud/docker: <span class="emoji-outer emoji-sizer"><span class="emoji-inner" style="background: url(chrome-extension://gaoflciahikhligngeccdecgfjngejlh/emoji-data/sheet_apple_32.png);background-position:97.94359576968273% 18.037602820211514%;background-size:5418.75% 5418.75%" data-codepoints="26f4-fe0f"></span></span> Docker image of Nextcloud](https://github.com/nextcloud/docker)
 - [PrivateBin/docker-nginx-fpm-alpine: PrivateBin docker image based on Nginx, php-fpm & Alpine Linux stack](https://github.com/PrivateBin/docker-nginx-fpm-alpine)
+- [appsmithorg/appsmith: Build custom CRUD apps that talk to any API or database. All without HTML or CSS.](https://github.com/appsmithorg/appsmith)
 
 ## Docker, Development and Stacks
 
-- [camptocamp/devops-stack: 🌊 An all-in-one Kubernetes ☸ stack using ArgoCD 🐙 and Terraform as a base components](https://github.com/camptocamp/devops-stack)
+- [camptocamp/devops-stack: <span class="emoji-outer emoji-sizer"><span class="emoji-inner" style="background: url(chrome-extension://gaoflciahikhligngeccdecgfjngejlh/emoji-data/sheet_apple_32.png);background-position:12.044653349001175% 16.039952996474735%;background-size:5418.75% 5418.75%" data-codepoints="1f30a"></span></span> An all-in-one Kubernetes <span class="emoji-outer emoji-sizer"><span class="emoji-inner" style="background: url(chrome-extension://gaoflciahikhligngeccdecgfjngejlh/emoji-data/sheet_apple_32.png);background-position:95.94594594594594% 10.047003525264394%;background-size:5418.75% 5418.75%" data-codepoints="2638-fe0f"></span></span> stack using ArgoCD <span class="emoji-outer emoji-sizer"><span class="emoji-inner" style="background: url(chrome-extension://gaoflciahikhligngeccdecgfjngejlh/emoji-data/sheet_apple_32.png);background-position:26.02820211515864% 12.044653349001175%;background-size:5418.75% 5418.75%" data-codepoints="1f419"></span></span> and Terraform as a base components](https://github.com/camptocamp/devops-stack)
 - [oneinstack/lnmp: LEMP stack/LAMP stack/LNMP stack installation scripts for CentOS/Redhat Debian and Ubuntu](https://github.com/oneinstack/lnmp)
 - [sprintcube/docker-compose-lamp: A basic LAMP stack environment built using Docker Compose.](https://github.com/sprintcube/docker-compose-lamp)
 - [cytopia/devilbox: A modern Docker LAMP stack and MEAN stack for local development](https://github.com/cytopia/devilbox)
@@ -24,7 +25,7 @@
 
 #### Libraries, Frameworks and Modules
 
-- [JonnyBurger/tics: 🎢 Simple self-hosted analytics ideal for Express / React Native stacks](https://github.com/JonnyBurger/tics)
+- [JonnyBurger/tics: <span class="emoji-outer emoji-sizer"><span class="emoji-inner" style="background: url(chrome-extension://gaoflciahikhligngeccdecgfjngejlh/emoji-data/sheet_apple_32.png);background-position:18.037602820211514% 10.047003525264394%;background-size:5418.75% 5418.75%" data-codepoints="1f3a2"></span></span> Simple self-hosted analytics ideal for Express / React Native stacks](https://github.com/JonnyBurger/tics)
 
 ### Laravel
 
