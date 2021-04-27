@@ -87,23 +87,9 @@ https://github.com/desktop/desktop
 
 
 
-glpi-project/glpi: GLPI is a Free Asset and IT Management Software package, Data center management, ITIL Service Desk, licenses tracking and software auditing.
-https://github.com/glpi-project/glpi
 
-mengshukeji/Luckysheet: Luckysheet is an online spreadsheet like excel that is powerful, simple to configure, and completely open source.
-https://github.com/mengshukeji/Luckysheet
 
-mindsdb/mindsdb: Predictive AI layer for existing databases.
-https://github.com/mindsdb/mindsdb
 
-appsmithorg/appsmith: Build custom CRUD apps that talk to any API or database. All without HTML or CSS.
-https://github.com/appsmithorg/appsmith
-
-Countly/countly-server: Countly helps you get insights from your application. Available self-hosted or on private cloud.
-https://github.com/Countly/countly-server
-
-RasaHQ/rasa: 💬 Open source machine learning framework to automate text- and voice-based conversations: NLU, dialogue management, connect to Slack, Facebook, and more - Create chatbots and voice assistants
-https://github.com/RasaHQ/rasa
 
 oldratlee/useful-scripts: 🐌 useful scripts for making developer's everyday life easier and happier, involved java, shell etc.
 https://github.com/oldratlee/useful-scripts
