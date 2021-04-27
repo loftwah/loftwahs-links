@@ -50,6 +50,7 @@
 
 - [wodby/docker4python: Docker-based Python web stack (works for Django)](https://github.com/wodby/docker4python)
 - [tiangolo/full-stack-fastapi-postgresql: Full stack, modern web application generator. Using FastAPI, PostgreSQL as database, Docker, automatic HTTPS and more.](https://github.com/tiangolo/full-stack-fastapi-postgresql)
+- [dpgaspar/Flask-AppBuilder: Simple and rapid application development framework, built on top of Flask. includes detailed security, auto CRUD generation for your models, google charts and much more. Demo (login with guest/welcome) - http://flaskappbuilder.pythonanywhere.com/](https://github.com/dpgaspar/Flask-AppBuilder)
 
 #### Libraries, Frameworks and Modules
 
