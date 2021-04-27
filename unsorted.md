@@ -3,29 +3,21 @@
 node-red/node-red: Low-code programming for event-driven applications
 https://github.com/node-red/node-red
 
-imgproxy/imgproxy: Fast and secure standalone server for resizing and converting remote images
-https://github.com/imgproxy/imgproxy
+
 
 Budibase/budibase: Budibase is a free and open-source development platform that helps you build internal apps on your own infrastructure, in minutes, not months 🚀
 https://github.com/Budibase/budibase
 
-zammad/zammad: Zammad is a web based open source helpdesk/customer support system
-https://github.com/zammad/zammad
 
-marmelab/react-admin: A frontend Framework for building B2B applications running in the browser on top of REST/GraphQL APIs, using ES6, React and Material Design
-https://github.com/marmelab/react-admin
 
-n8n-io/n8n: Free and open fair-code licensed node based Workflow Automation Tool. Easily automate tasks across different services.
-https://github.com/n8n-io/n8n
 
-ntop/ntopng: Web-based Traffic and Security Network Traffic Monitoring
-https://github.com/ntop/ntopng
+
+
 
 secdev/scapy: Scapy: the Python-based interactive packet manipulation program & library. Supports Python 2 & Python 3.
 https://github.com/secdev/scapy
 
-appwrite/appwrite: Appwrite is a secure end-to-end backend server for Web, Mobile, and Flutter developers that is packaged as a set of Docker containers for easy deployment 🚀
-https://github.com/appwrite/appwrite
+
 
 carlospolop/hacktricks: Welcome to the page where you will find each trick/technique/whatever I have learnt in CTFs, real life apps, and reading researches and news.
 https://github.com/carlospolop/hacktricks
@@ -36,23 +28,18 @@ https://github.com/public-apis/public-apis
 txthinking/brook: Brook is a cross-platform strong encryption and not detectable proxy. Zero-Configuration. Brook 是一个跨平台的强加密无特征的代理软件. 零配置.
 https://github.com/txthinking/brook
 
-backstage/backstage: Backstage is an open platform for building developer portals
-https://github.com/backstage/backstage
 
-getferdi/ferdi: 🧔🏽 Ferdi helps you organize how you use your favourite apps by combining them into one application
-https://github.com/getferdi/ferdi
 
-prisma/prisma-examples: 🚀 Ready-to-run Prisma example projects
-https://github.com/prisma/prisma-examples
+
+
+
 
 kovidgoyal/kitty: Cross-platform, fast, feature-rich, GPU based terminal
 https://github.com/kovidgoyal/kitty
 
-netdata/netdata: Real-time performance monitoring, done right! https://www.netdata.cloud
-https://github.com/netdata/netdata
 
-wazuh/wazuh: Wazuh - The Open Source Security Platform
-https://github.com/wazuh/wazuh
+
+
 
 ossrs/srs: SRS is a simple, high efficiency and realtime video server, supports RTMP/WebRTC/HLS/HTTP-FLV/SRT/GB28181.
 https://github.com/ossrs/srs
@@ -60,11 +47,9 @@ https://github.com/ossrs/srs
 crowdsecurity/crowdsec: CrowdSec - an open-source massively multiplayer firewall able to analyze visitor behavior & provide an adapted response to all kinds of attacks. It also leverages the crowd power to generate a global IP reputation database to protect the user network.
 https://github.com/crowdsecurity/crowdsec
 
-ansible-collections/cisco.ios: Ansible Network Collection for Cisco IOS
-https://github.com/ansible-collections/cisco.ios
 
-inspircd/inspircd: A modular C++ IRC server (ircd).
-https://github.com/inspircd/inspircd
+
+
 
 mitchellkrogza/Phishing.Database: Phishing Domains, urls websites and threats database. We use the PyFunceble testing tool to validate the status of all known Phishing domains and provide stats to reveal how many unique domains used for Phishing are still active.
 https://github.com/mitchellkrogza/Phishing.Database
@@ -72,14 +57,11 @@ https://github.com/mitchellkrogza/Phishing.Database
 DIYgod/RSSHub: 🍰 Everything is RSSible
 https://github.com/DIYgod/RSSHub
 
-six2dez/reconftw: reconFTW is a tool designed to perform automated recon on a target domain by running the best set of tools to perform scanning and finding out vulnerabilities
-https://github.com/six2dez/reconftw
 
-containrrr/watchtower: A process for automating Docker container base image updates.
-https://github.com/containrrr/watchtower
 
-rclone/rclone: "rsync for cloud storage" - Google Drive, S3, Dropbox, Backblaze B2, One Drive, Swift, Hubic, Wasabi, Google Cloud Storage, Yandex Files
-https://github.com/rclone/rclone
+
+
+
 
 zabbix/zabbix: Real-time monitoring of IT components and services, such as networks, servers, VMs, applications and the cloud.
 https://github.com/zabbix/zabbix
@@ -93,20 +75,17 @@ https://github.com/ventoy/Ventoy
 berty/berty: Berty is a secure peer-to-peer messaging app that works with or without internet access, cellular data or trust in the network
 https://github.com/berty/berty
 
-keycloak/keycloak: Open Source Identity and Access Management For Modern Applications and Services
-https://github.com/keycloak/keycloak
+
 
 vimagick/dockerfiles: A collection of delicious docker recipes
 https://github.com/vimagick/dockerfiles
 
-getsentry/sentry: Sentry is cross-platform application monitoring, with a focus on error reporting.
-https://github.com/getsentry/sentry
+
 
 desktop/desktop: Simple collaboration from your desktop
 https://github.com/desktop/desktop
 
-moul/sshportal: simple, fun and transparent SSH (and telnet) bastion server
-https://github.com/moul/sshportal
+
 
 glpi-project/glpi: GLPI is a Free Asset and IT Management Software package, Data center management, ITIL Service Desk, licenses tracking and software auditing.
 https://github.com/glpi-project/glpi
