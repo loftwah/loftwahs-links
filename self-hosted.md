@@ -7,6 +7,14 @@
 - [PrivateBin/docker-nginx-fpm-alpine: PrivateBin docker image based on Nginx, php-fpm & Alpine Linux stack](https://github.com/PrivateBin/docker-nginx-fpm-alpine)
 - [appsmithorg/appsmith: Build custom CRUD apps that talk to any API or database. All without HTML or CSS.](https://github.com/appsmithorg/appsmith)
 
+### NetBox
+
+- [netbox-community/netbox: IP address management (IPAM) and data center infrastructure management (DCIM) tool.](https://github.com/netbox-community/netbox)
+- [aabouzaid/netbox-as-ansible-inventory: Ansible dynamic inventory script for Netbox.](https://github.com/aabouzaid/netbox-as-ansible-inventory)
+- [netbox-community/pynetbox: Python API client library for Netbox.](https://github.com/netbox-community/pynetbox)
+- [netbox-community/devicetype-library: A collection of community-sourced DeviceType definitions for import to NetBox](https://github.com/netbox-community/devicetype-library)
+- [netbox-community/netbox-docker: 🐳 Docker Image of NetBox](https://github.com/netbox-community/netbox-docker)
+
 ## Docker, Development and Stacks
 
 - [camptocamp/devops-stack: <span class="emoji-outer emoji-sizer"><span class="emoji-inner" style="background: url(chrome-extension://gaoflciahikhligngeccdecgfjngejlh/emoji-data/sheet_apple_32.png);background-position:12.044653349001175% 16.039952996474735%;background-size:5418.75% 5418.75%" data-codepoints="1f30a"></span></span> An all-in-one Kubernetes <span class="emoji-outer emoji-sizer"><span class="emoji-inner" style="background: url(chrome-extension://gaoflciahikhligngeccdecgfjngejlh/emoji-data/sheet_apple_32.png);background-position:95.94594594594594% 10.047003525264394%;background-size:5418.75% 5418.75%" data-codepoints="2638-fe0f"></span></span> stack using ArgoCD <span class="emoji-outer emoji-sizer"><span class="emoji-inner" style="background: url(chrome-extension://gaoflciahikhligngeccdecgfjngejlh/emoji-data/sheet_apple_32.png);background-position:26.02820211515864% 12.044653349001175%;background-size:5418.75% 5418.75%" data-codepoints="1f419"></span></span> and Terraform as a base components](https://github.com/camptocamp/devops-stack)
