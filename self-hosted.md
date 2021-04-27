@@ -15,17 +15,22 @@
 - [backstage/backstage: Backstage is an open platform for building developer portals](https://github.com/backstage/backstage)
 - [keycloak/keycloak: Open Source Identity and Access Management For Modern Applications and Services](https://github.com/keycloak/keycloak)
 - [moul/sshportal: simple, fun and transparent SSH (and telnet) bastion server](https://github.com/moul/sshportal)
+- [bastillion-io/Bastillion-EC2: A web-based SSH console to execute commands and manage multiple EC2 instances simultaneously running on Amazon Web Services.](https://github.com/bastillion-io/Bastillion-EC2)
 - [glpi-project/glpi: GLPI is a Free Asset and IT Management Software package, Data center management, ITIL Service Desk, licenses tracking and software auditing.](https://github.com/glpi-project/glpi)
 - [mengshukeji/Luckysheet: Luckysheet is an online spreadsheet like excel that is powerful, simple to configure, and completely open source.](https://github.com/mengshukeji/Luckysheet)
 - [mindsdb/mindsdb: Predictive AI layer for existing databases.](https://github.com/mindsdb/mindsdb)
+- [portainer/portainer: Making Docker and Kubernetes management easy.](https://github.com/portainer/portainer)
 
+### Nextcloud
 
-### ChatOps
+- [nextcloud/server: ☁️ Nextcloud server, a safe home for all your data](https://github.com/nextcloud/server)
+### ChatOps, Helpdesk, and CRM
 
 - [LiveHelperChat/livehelperchat: Live Helper Chat - live support for your website. Featuring web and mobile apps, Voice & Video & ScreenShare. Supports Telegram, Twilio (whatsapp), Facebook messenger including building a bot.](https://github.com/LiveHelperChat/livehelperchat) | [Live Helper Chat - live support](https://demo.livehelperchat.com/)
 - [berty/berty: Berty is a secure peer-to-peer messaging app that works with or without internet access, cellular data or trust in the network](https://github.com/berty/berty)
 - [RasaHQ/rasa: 💬 Open source machine learning framework to automate text- and voice-based conversations: NLU, dialogue management, connect to Slack, Facebook, and more - Create chatbots and voice assistants](https://github.com/RasaHQ/rasa)
 - [chatwoot/chatwoot: Open-source customer engagement suite, an alternative to Intercom, Zendesk, Salesforce Service Cloud etc. 🔥💬](https://github.com/chatwoot/chatwoot)
+- [polonel/trudesk: Trudesk is an open source help desk/ticketing solution[(https://github.com/polonel/trudesk)
 
 #### Documentation
 
@@ -92,6 +97,7 @@ Infrastructure as Code section.
 - [livewire/livewire: A full-stack framework for Laravel that takes the pain out of building dynamic UIs.](https://github.com/livewire/livewire)
 - [tanthammar/tall-forms: Laravel Livewire (TALL-stack) form generator with realtime validation, file uploads, array fields, blade form input components and more.](https://github.com/tanthammar/tall-forms)
 - [laravel-filament/filament: The elegant TALL stack admin for Laravel artisans.](https://github.com/laravel-filament/filament)
+- [jeroennoten/Laravel-AdminLTE: Easy AdminLTE integration with Laravel](https://github.com/jeroennoten/Laravel-AdminLTE)
 
 ### Python
 
@@ -119,9 +125,10 @@ This section is for tools and utilities that we are likely to use.
 
 - [apocas/docker-modem: Docker Remote API network stack driver.](https://github.com/apocas/docker-modem)
 
-#### Developer Tools
+#### CLI, Shell and Developer Tools
 
 - [shobrook/rebound: Command-line tool that instantly fetches Stack Overflow results when an exception is thrown](https://github.com/shobrook/rebound)
+- [akavel/up: Ultimate Plumber is a tool for writing Linux pipes with instant live preview](https://github.com/akavel/up)
 
 #### Files and Backup
 

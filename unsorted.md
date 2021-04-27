@@ -183,8 +183,6 @@ https://github.com/mautic/mautic
 pothi/wordpress-nginx: WordPress specific Nginx configuration templates and best practices!
 https://github.com/pothi/wordpress-nginx
 
-portainer/portainer: Making Docker and Kubernetes management easy.
-https://github.com/portainer/portainer
 
 nukeop/nuclear: Streaming music player that finds free music for you
 https://github.com/nukeop/nuclear
@@ -192,8 +190,7 @@ https://github.com/nukeop/nuclear
 DNSCrypt/dnscrypt-proxy: dnscrypt-proxy 2 - A flexible DNS proxy, with support for encrypted DNS protocols.
 https://github.com/DNSCrypt/dnscrypt-proxy
 
-bastillion-io/Bastillion-EC2: A web-based SSH console to execute commands and manage multiple EC2 instances simultaneously running on Amazon Web Services (AWS).
-https://github.com/bastillion-io/Bastillion-EC2
+
 
 jpillora/cloud-torrent: ☁️ Cloud Torrent: a self-hosted remote torrent client
 https://github.com/jpillora/cloud-torrent
@@ -207,8 +204,6 @@ https://github.com/photoprism/photoprism
 encode/httpx: A next generation HTTP client for Python. 🦋
 https://github.com/encode/httpx
 
-nextcloud/server: ☁️ Nextcloud server, a safe home for all your data
-https://github.com/nextcloud/server
 
 benbusby/whoogle-search: A self-hosted, ad-free, privacy-respecting metasearch engine
 https://github.com/benbusby/whoogle-search
@@ -219,8 +214,7 @@ https://github.com/sergree/matchering
 wordplate/wordplate: WordPlate is a wrapper around WordPress. It makes developers life easier. It is just like building any other WordPress website with themes and plugins. Just with sprinkles on top.
 https://github.com/wordplate/wordplate
 
-jeroennoten/Laravel-AdminLTE: Easy AdminLTE integration with Laravel
-https://github.com/jeroennoten/Laravel-AdminLTE
+
 
 bridgecrewio/checkov: Prevent cloud misconfigurations during build-time for Terraform, Cloudformation, Kubernetes, Serverless framework and other infrastructure-as-code-languages with Checkov by Bridgecrew.
 https://github.com/bridgecrewio/checkov
@@ -234,8 +228,7 @@ https://github.com/kartik-v/bootstrap-fileinput
 Chassis/Chassis: 📦 Chassis is a virtual server for your WordPress site, built using Vagrant.
 https://github.com/Chassis/Chassis
 
-polonel/trudesk: Trudesk is an open source help desk/ticketing solution.
-https://github.com/polonel/trudesk
+
 
 gerbera/gerbera: UPnP Media Server for 2021: Stream your digital media through your home network and consume it on all kinds of UPnP supporting devices 📱💻📺
 https://github.com/gerbera/gerbera
@@ -246,8 +239,6 @@ https://github.com/xo/usql
 files-community/Files: A modern file explorer that pushes the boundaries of the platform.
 https://github.com/files-community/Files
 
-akavel/up: Ultimate Plumber is a tool for writing Linux pipes with instant live preview
-https://github.com/akavel/up
 
 tanaikech/taking-advantage-of-google-apps-script: Here, CLI tools, libraries, Add-ons, Reports, Benchmarks and Sample Scripts for taking advantage of Google Apps Script which are publishing in my blog, Gists and GitHub are summarized.
 https://github.com/tanaikech/taking-advantage-of-google-apps-script
