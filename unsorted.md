@@ -473,8 +473,7 @@ https://github.com/snipe/snipe-it
 aws/aws-cli: Universal Command Line Interface for Amazon Web Services
 https://github.com/aws/aws-cli
 
-gravitational/teleport: Certificate authority and access plane for SSH, Kubernetes, web applications, and databases
-https://github.com/gravitational/teleport
+
 
 DMOJ/online-judge: A modern open-source online judge and contest platform system.
 https://github.com/DMOJ/online-judge
