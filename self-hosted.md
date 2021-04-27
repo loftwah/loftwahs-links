@@ -1,4 +1,6 @@
-# Our self-hosted stack
+# My self-hosted and homelab resources
+
+- This is the for the stuff I've used, am using, or, would recommend.
 
 ## Applications
 
@@ -8,6 +10,7 @@
 - [appsmithorg/appsmith: Build custom CRUD apps that talk to any API or database. All without HTML or CSS.](https://github.com/appsmithorg/appsmith)
 - [hestiacp/hestiacp: Hestia Control Panel | A lightweight and powerful control panel for the modern web.](https://github.com/hestiacp/hestiacp)
 - [react-page/react-page: Next-gen, highly customizable content editor for the browser - based on React and written in TypeScript. WYSIWYG on steroids.](https://github.com/react-page/react-page)
+- [LiveHelperChat/livehelperchat: Live Helper Chat - live support for your website. Featuring web and mobile apps, Voice & Video & ScreenShare. Supports Telegram, Twilio (whatsapp), Facebook messenger including building a bot.](https://github.com/LiveHelperChat/livehelperchat) | [Live Helper Chat - live support](https://demo.livehelperchat.com/)
 
 ### NetBox
 
