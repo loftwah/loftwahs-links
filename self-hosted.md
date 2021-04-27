@@ -24,9 +24,16 @@
 - [moul/sshportal: simple, fun and transparent SSH (and telnet) bastion server](https://github.com/moul/sshportal)
 - [bastillion-io/Bastillion-EC2: A web-based SSH console to execute commands and manage multiple EC2 instances simultaneously running on Amazon Web Services.](https://github.com/bastillion-io/Bastillion-EC2)
 - [gravitational/teleport: Certificate authority and access plane for SSH, Kubernetes, web applications, and databases](https://github.com/gravitational/teleport)
+- [rundeck/rundeck: Enable Self-Service Operations: Give specific users access to your existing tools, services, and scripts](https://github.com/rundeck/rundeck)
+- [pomerium/pomerium: Pomerium is an identity-aware access proxy.](https://github.com/pomerium/pomerium)
+- [oauth2-proxy/oauth2-proxy: A reverse proxy that provides authentication with Google, Github or other providers.](https://github.com/oauth2-proxy/oauth2-proxy)
+- [sshuttle/sshuttle: Transparent proxy server that works as a poor man's VPN. Forwards over ssh. Doesn't require admin. Works with Linux and MacOS. Supports DNS tunneling.](https://github.com/sshuttle/sshuttle)
+
 ### Nextcloud
 
 - [nextcloud/server: ☁️ Nextcloud server, a safe home for all your data](https://github.com/nextcloud/server)
+- [nextcloud/docker: ⛴ Docker image of Nextcloud](https://github.com/nextcloud/docker)
+
 ### ChatOps, Helpdesk, and CRM
 
 - [LiveHelperChat/livehelperchat: Live Helper Chat - live support for your website. Featuring web and mobile apps, Voice & Video & ScreenShare. Supports Telegram, Twilio (whatsapp), Facebook messenger including building a bot.](https://github.com/LiveHelperChat/livehelperchat) | [Live Helper Chat - live support](https://demo.livehelperchat.com/)
@@ -54,6 +61,10 @@
 - [netbox-community/devicetype-library: A collection of community-sourced DeviceType definitions for import to NetBox](https://github.com/netbox-community/devicetype-library)
 - [netbox-community/netbox-docker: 🐳 Docker Image of NetBox](https://github.com/netbox-community/netbox-docker)
 
+### DNS, Hosts, Filtering and Ad-Blocking
+
+- [tanrax/maza-ad-blocking: Local ad blocker. Like Pi-hole but local and using your operating system.](https://github.com/tanrax/maza-ad-blocking)
+[pi-hole/docker-pi-hole: Pi-hole in a docker container](https://github.com/pi-hole/docker-pi-hole)
 ## Docker, Development and Stacks
 
 - [camptocamp/devops-stack](https://github.com/camptocamp/devops-stack)
@@ -62,14 +73,16 @@
 - [cytopia/devilbox: A modern Docker LAMP stack and MEAN stack for local development](https://github.com/cytopia/devilbox)
 - - [containrrr/watchtower: A process for automating Docker container base image updates.](https://github.com/containrrr/watchtower)
 
-### Monitoring, Metrics and Insights
+### Monitoring, Alerts, Network, Metrics and Insights
 
 - [netdata/netdata: Real-time performance monitoring, done right!](https://github.com/netdata/netdata)
 - [getsentry/sentry: Sentry is cross-platform application monitoring, with a focus on error reporting.](https://github.com/getsentry/sentry)
 - [Countly/countly-server: Countly helps you get insights from your application. Available self-hosted or on private cloud.](https://github.com/Countly/countly-server)
 - [PostHog/posthog: 🦔 PostHog is developer-friendly, open-source product analytics.](https://github.com/PostHog/posthog)
 - [prometheus/prometheus: The Prometheus monitoring system and time series database.](https://github.com/prometheus/prometheus)
-
+- [microsoft/ethr: Ethr is a Comprehensive Network Measurement Tool for TCP, UDP & ICMP.](https://github.com/microsoft/ethr)
+- - [ntop/ntopng: Web-based Traffic and Security Network Traffic Monitoring](https://github.com/ntop/ntopng)
+- [target/goalert: Open source on-call scheduling, automated escalations, and notifications so you never miss a critical alert](https://github.com/target/goalert)
 ### Security
 
 - [wazuh/wazuh: Wazuh - The Open Source Security Platform](https://github.com/wazuh/wazuh)
@@ -82,6 +95,8 @@ Infrastructure as Code section.
 
 - [cloudposse/terraform-aws-components: Opinionated, self-contained Terraform root modules that each solve one, specific problem](https://github.com/cloudposse/terraform-aws-components)
 - [cloudposse/terraform-yaml-stack-config: Terraform module that loads an opinionated "stack" configuration from local or remote YAML sources. It supports deep-merged variables, settings, ENV variables, backend config, and remote state outputs for Terraform and helmfile components.](https://github.com/cloudposse/terraform-yaml-stack-config)
+- [iann0036/former2: Generate CloudFormation / Terraform / Troposphere templates from your existing AWS resources.](https://github.com/iann0036/former2)
+- [GoogleCloudPlatform/terraformer: CLI tool to generate terraform files from existing infrastructure (reverse Terraform). Infrastructure to Code](https://github.com/GoogleCloudPlatform/terraformer)
 
 #### Ansible
 
@@ -137,9 +152,6 @@ This section is for tools and utilities that we are likely to use.
 #### Files and Backup
 
 - [rclone/rclone: "rsync for cloud storage" - Google Drive, S3, Dropbox, Backblaze B2, One Drive, Swift, Hubic, Wasabi, Google Cloud Storage, Yandex Files](https://github.com/rclone/rclone)
-##### Networking
-
-- [ntop/ntopng: Web-based Traffic and Security Network Traffic Monitoring](https://github.com/ntop/ntopng)
 ## Demo, Example and Full Applications
 
 - [zduvall/eDOT: Diagnostic and Outcome Testing for mental health and other helping professionals (full-stack solo project)](https://github.com/zduvall/eDOT)

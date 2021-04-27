@@ -568,8 +568,6 @@ https://github.com/jnv/lists
 guardicore/monkey: Infection Monkey - An automated pentest tool
 https://github.com/guardicore/monkey
 
-rundeck/rundeck: Enable Self-Service Operations: Give specific users access to your existing tools, services, and scripts
-https://github.com/rundeck/rundeck
 
 BuilderIO/builder: Drag and drop page builder and CMS for React, Vue, Angular, and more
 https://github.com/BuilderIO/builder
@@ -586,8 +584,7 @@ https://github.com/nginx-proxy/nginx-proxy
 iggredible/Learn-Vim: Learning Vim and Vimscript doesn't have to be hard. This is the guide that you're looking for.
 https://github.com/iggredible/Learn-Vim
 
-pi-hole/docker-pi-hole: Pi-hole in a docker container
-https://github.com/pi-hole/docker-pi-hole
+
 
 mpv-player/mpv: 🎥 Command line video player
 https://github.com/mpv-player/mpv
@@ -598,8 +595,7 @@ https://github.com/Jany-M/simple-csv-xls-exporter
 miurahr/py7zr: 7zip in python3 with ZStandard, PPMd, LZMA2, LZMA1, Delta, BCJ, BZip2, and Deflate compressions, and AES encryption.
 https://github.com/miurahr/py7zr
 
-pomerium/pomerium: Pomerium is an identity-aware access proxy.
-https://github.com/pomerium/pomerium
+
 
 evilsocket/opensnitch: OpenSnitch is a GNU/Linux port of the Little Snitch application firewall
 https://github.com/evilsocket/opensnitch
@@ -607,8 +603,7 @@ https://github.com/evilsocket/opensnitch
 ogham/exa: A modern replacement for ‘ls’.
 https://github.com/ogham/exa
 
-iann0036/former2: Generate CloudFormation / Terraform / Troposphere templates from your existing AWS resources.
-https://github.com/iann0036/former2
+
 
 madewithkoji/docs: Documentation and source code for the Koji developer site
 https://github.com/madewithkoji/docs
@@ -616,8 +611,7 @@ https://github.com/madewithkoji/docs
 tabler/tabler-icons: A set of over 1250 free MIT-licensed high-quality SVG icons for you to use in your web projects.
 https://github.com/tabler/tabler-icons
 
-microsoft/ethr: Ethr is a Comprehensive Network Measurement Tool for TCP, UDP & ICMP.
-https://github.com/microsoft/ethr
+
 
 rjsf-team/react-jsonschema-form: A React component for building Web forms from JSON Schema.
 https://github.com/rjsf-team/react-jsonschema-form
@@ -625,8 +619,7 @@ https://github.com/rjsf-team/react-jsonschema-form
 linkedin/iris: Iris is a highly configurable and flexible service for paging and messaging.
 https://github.com/linkedin/iris
 
-target/goalert: Open source on-call scheduling, automated escalations, and notifications so you never miss a critical alert
-https://github.com/target/goalert
+
 
 ansible/ansible-runner: A tool and python library that helps when interfacing with Ansible directly or as part of another system whether that be through a container image interface, as a standalone tool, or as a Python module that can be imported. The goal is to provide a stable and consistent interface abstraction to Ansible.
 https://github.com/ansible/ansible-runner
@@ -643,8 +636,7 @@ https://github.com/alexanderepstein/Bash-Snippets
 pivotal/postfacto: Self-hosted retro tool aimed at helping remote teams
 https://github.com/pivotal/postfacto
 
-GoogleCloudPlatform/terraformer: CLI tool to generate terraform files from existing infrastructure (reverse Terraform). Infrastructure to Code
-https://github.com/GoogleCloudPlatform/terraformer
+
 
 StevenBlack/hosts: 🔒 Consolidating and extending hosts files from several well-curated sources. Optionally pick extensions for porn, social media, and other categories.
 https://github.com/StevenBlack/hosts
@@ -661,8 +653,6 @@ https://github.com/PrefectHQ/prefect
 Ultimate-Hosts-Blacklist/Ultimate.Hosts.Blacklist: The Ultimate Unified Hosts file for protecting your network, computer, smartphones and Wi-Fi devices against millions of bad web sites. Protect your children and family from gaining access to bad web sites and protect your devices and pc from being infected with Malware or Ransomware.
 https://github.com/Ultimate-Hosts-Blacklist/Ultimate.Hosts.Blacklist
 
-oauth2-proxy/oauth2-proxy: A reverse proxy that provides authentication with Google, Github or other providers.
-https://github.com/oauth2-proxy/oauth2-proxy
 
 ether/etherpad-lite: Etherpad: A modern really-real-time collaborative document editor.
 https://github.com/ether/etherpad-lite
@@ -676,8 +666,7 @@ https://github.com/osTicket/osTicket
 AdguardTeam/AdGuardHome: Network-wide ads & trackers blocking DNS server
 https://github.com/AdguardTeam/AdGuardHome
 
-sshuttle/sshuttle: Transparent proxy server that works as a poor man's VPN. Forwards over ssh. Doesn't require admin. Works with Linux and MacOS. Supports DNS tunneling.
-https://github.com/sshuttle/sshuttle
+
 
 microsoft/WhatTheHack: A collection of challenge based hack-a-thons including student guide, coach guide, lecture presentations, sample/instructional code and templates.
 https://github.com/microsoft/WhatTheHack
@@ -703,8 +692,7 @@ https://github.com/crazy-max/diun
 digitalrebar/provision: Docs, API bindings, clients and integrations supporting RackN Digital Rebar data center provisioning and workflow system.
 https://github.com/digitalrebar/provision
 
-tanrax/maza-ad-blocking: Local ad blocker. Like Pi-hole but local and using your operating system.
-https://github.com/tanrax/maza-ad-blocking
+
 
 lowlighter/metrics: 📊 An image generator with 20+ metrics about your GitHub account such as activity, community, repositories, coding habits, website performances, music played, starred topics, etc. that you can put on your profile or elsewhere!
 https://github.com/lowlighter/metrics
@@ -781,8 +769,6 @@ https://github.com/json-schema-org/understanding-json-schema
 pgmodeler/pgmodeler: pgModeler - PostgreSQL Database Modeler - is an open source data modeling tool designed for PostgreSQL. No more DDL commands written by hand let pgModeler do the job for you! This software reunites the concepts of entity-relationship diagrams and the features that PostgreSQL implements as extensions of SQL standards. Support this project by donate on project's official web site link:
 https://github.com/pgmodeler/pgmodeler
 
-nextcloud/docker: ⛴ Docker image of Nextcloud
-https://github.com/nextcloud/docker
 
 taroved/pol: RSS generator website
 https://github.com/taroved/pol
