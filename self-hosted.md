@@ -36,6 +36,7 @@
 
 - [Redocly/redoc: 📘 OpenAPI/Swagger-generated API Reference Documentation](https://github.com/Redocly/redoc)
 - [facebook/docusaurus: Easy to maintain open source documentation websites.](https://github.com/facebook/docusaurus)
+- [outline/outline: The fastest wiki and knowledge base for growing teams. Beautiful, feature rich, and markdown compatible.](https://github.com/outline/outline)
 #### IRC
 
 - [inspircd/inspircd: A modular C++ IRC server (ircd).](https://github.com/inspircd/inspircd)

@@ -351,8 +351,7 @@ https://github.com/o2sh/onefetch
 foresterre/sic: 🦜 Accessible image processing and conversion from the terminal. Front-end for https://github.com/image-rs/image.
 https://github.com/foresterre/sic
 
-outline/outline: The fastest wiki and knowledge base for growing teams. Beautiful, feature rich, and markdown compatible.
-https://github.com/outline/outline
+
 
 sherlock-project/sherlock: 🔎 Hunt down social media accounts by username across social networks
 https://github.com/sherlock-project/sherlock
