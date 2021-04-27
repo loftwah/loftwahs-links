@@ -11,11 +11,16 @@
 - [hestiacp/hestiacp: Hestia Control Panel | A lightweight and powerful control panel for the modern web.](https://github.com/hestiacp/hestiacp)
 - [react-page/react-page: Next-gen, highly customizable content editor for the browser - based on React and written in TypeScript. WYSIWYG on steroids.](https://github.com/react-page/react-page)
 
+- [imgproxy/imgproxy: Fast and secure standalone server for resizing and converting remote images](https://github.com/imgproxy/imgproxy)
+
 ### ChatOps
 
 - [LiveHelperChat/livehelperchat: Live Helper Chat - live support for your website. Featuring web and mobile apps, Voice & Video & ScreenShare. Supports Telegram, Twilio (whatsapp), Facebook messenger including building a bot.](https://github.com/LiveHelperChat/livehelperchat) | [Live Helper Chat - live support](https://demo.livehelperchat.com/)
-[berty/berty: Berty is a secure peer-to-peer messaging app that works with or without internet access, cellular data or trust in the network](https://github.com/berty/berty)
+  [berty/berty: Berty is a secure peer-to-peer messaging app that works with or without internet access, cellular data or trust in the network](https://github.com/berty/berty)
 
+#### Zammad
+
+- [zammad/zammad: Zammad is a web based open source helpdesk/customer support system](https://github.com/zammad/zammad)
 ### NetBox
 
 - [netbox-community/netbox: IP address management (IPAM) and data center infrastructure management (DCIM) tool.](https://github.com/netbox-community/netbox)
@@ -43,6 +48,7 @@
 #### Libraries, Frameworks and Modules
 
 - [JonnyBurger/tics: <span class="emoji-outer emoji-sizer"><span class="emoji-inner" style="background: url(chrome-extension://gaoflciahikhligngeccdecgfjngejlh/emoji-data/sheet_apple_32.png);background-position:18.037602820211514% 10.047003525264394%;background-size:5418.75% 5418.75%" data-codepoints="1f3a2"></span></span> Simple self-hosted analytics ideal for Express / React Native stacks](https://github.com/JonnyBurger/tics)
+- marmelab/react-admin: A frontend Framework for building B2B applications running in the browser on top of REST/GraphQL APIs, using ES6, React and Material Design(https://github.com/marmelab/react-admin)
 
 ### Laravel
 
@@ -58,8 +64,7 @@
 
 #### Libraries, Frameworks and Modules
 
-- [shobrook/rebound: Command-line tool that instantly fetches Stack Overflow results when an exception is thrown](https://github.com/shobrook/rebound)
-
+- Something
 ### WordPress (yeah, whatever it'll never die)
 
 - [WordOps/WordOps: Install and manage a high performance WordPress stack with a few keystrokes](https://github.com/WordOps/WordOps)
@@ -68,7 +73,7 @@
 ### Tools and Utilities
 
 - [apocas/docker-modem: Docker Remote API network stack driver.](https://github.com/apocas/docker-modem)
-
+- [shobrook/rebound: Command-line tool that instantly fetches Stack Overflow results when an exception is thrown](https://github.com/shobrook/rebound)
 ## Demo, Example and Full Applications
 
 - [zduvall/eDOT: Diagnostic and Outcome Testing for mental health and other helping professionals (full-stack solo project)](https://github.com/zduvall/eDOT)
