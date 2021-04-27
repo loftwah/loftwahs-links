@@ -7,6 +7,7 @@
 - [PrivateBin/docker-nginx-fpm-alpine: PrivateBin docker image based on Nginx, php-fpm & Alpine Linux stack](https://github.com/PrivateBin/docker-nginx-fpm-alpine)
 - [appsmithorg/appsmith: Build custom CRUD apps that talk to any API or database. All without HTML or CSS.](https://github.com/appsmithorg/appsmith)
 - [hestiacp/hestiacp: Hestia Control Panel | A lightweight and powerful control panel for the modern web.](https://github.com/hestiacp/hestiacp)
+- [react-page/react-page: Next-gen, highly customizable content editor for the browser - based on React and written in TypeScript. WYSIWYG on steroids.](https://github.com/react-page/react-page)
 
 ### NetBox
 
