@@ -10,8 +10,8 @@
 - [appsmithorg/appsmith: Build custom CRUD apps that talk to any API or database. All without HTML or CSS.](https://github.com/appsmithorg/appsmith)
 - [hestiacp/hestiacp: Hestia Control Panel | A lightweight and powerful control panel for the modern web.](https://github.com/hestiacp/hestiacp)
 - [react-page/react-page: Next-gen, highly customizable content editor for the browser - based on React and written in TypeScript. WYSIWYG on steroids.](https://github.com/react-page/react-page)
-
 - [imgproxy/imgproxy: Fast and secure standalone server for resizing and converting remote images](https://github.com/imgproxy/imgproxy)
+- [n8n-io/n8n: Free and open fair-code licensed node based Workflow Automation Tool. Easily automate tasks across different services.](https://github.com/n8n-io/n8n)
 
 ### ChatOps
 
@@ -31,7 +31,7 @@
 
 ## Docker, Development and Stacks
 
-- [camptocamp/devops-stack: <span class="emoji-outer emoji-sizer"><span class="emoji-inner" style="background: url(chrome-extension://gaoflciahikhligngeccdecgfjngejlh/emoji-data/sheet_apple_32.png);background-position:12.044653349001175% 16.039952996474735%;background-size:5418.75% 5418.75%" data-codepoints="1f30a"></span></span> An all-in-one Kubernetes <span class="emoji-outer emoji-sizer"><span class="emoji-inner" style="background: url(chrome-extension://gaoflciahikhligngeccdecgfjngejlh/emoji-data/sheet_apple_32.png);background-position:95.94594594594594% 10.047003525264394%;background-size:5418.75% 5418.75%" data-codepoints="2638-fe0f"></span></span> stack using ArgoCD <span class="emoji-outer emoji-sizer"><span class="emoji-inner" style="background: url(chrome-extension://gaoflciahikhligngeccdecgfjngejlh/emoji-data/sheet_apple_32.png);background-position:26.02820211515864% 12.044653349001175%;background-size:5418.75% 5418.75%" data-codepoints="1f419"></span></span> and Terraform as a base components](https://github.com/camptocamp/devops-stack)
+- [camptocamp/devops-stack](https://github.com/camptocamp/devops-stack)
 - [oneinstack/lnmp: LEMP stack/LAMP stack/LNMP stack installation scripts for CentOS/Redhat Debian and Ubuntu](https://github.com/oneinstack/lnmp)
 - [sprintcube/docker-compose-lamp: A basic LAMP stack environment built using Docker Compose.](https://github.com/sprintcube/docker-compose-lamp)
 - [cytopia/devilbox: A modern Docker LAMP stack and MEAN stack for local development](https://github.com/cytopia/devilbox)
@@ -48,7 +48,7 @@
 #### Libraries, Frameworks and Modules
 
 - [JonnyBurger/tics: <span class="emoji-outer emoji-sizer"><span class="emoji-inner" style="background: url(chrome-extension://gaoflciahikhligngeccdecgfjngejlh/emoji-data/sheet_apple_32.png);background-position:18.037602820211514% 10.047003525264394%;background-size:5418.75% 5418.75%" data-codepoints="1f3a2"></span></span> Simple self-hosted analytics ideal for Express / React Native stacks](https://github.com/JonnyBurger/tics)
-- marmelab/react-admin: A frontend Framework for building B2B applications running in the browser on top of REST/GraphQL APIs, using ES6, React and Material Design(https://github.com/marmelab/react-admin)
+- [marmelab/react-admin: A frontend Framework for building B2B applications running in the browser on top of REST/GraphQL APIs, using ES6, React and Material Design](https://github.com/marmelab/react-admin)
 
 ### Laravel
 
@@ -64,7 +64,7 @@
 
 #### Libraries, Frameworks and Modules
 
-- Something
+- [appwrite/appwrite: Appwrite is a secure end-to-end backend server for Web, Mobile, and Flutter developers that is packaged as a set of Docker containers for easy deployment 🚀](https://github.com/appwrite/appwrite)
 ### WordPress (yeah, whatever it'll never die)
 
 - [WordOps/WordOps: Install and manage a high performance WordPress stack with a few keystrokes](https://github.com/WordOps/WordOps)
@@ -72,8 +72,17 @@
 
 ### Tools and Utilities
 
+This section is for tools and utilities that we are likely to use.
+##### Docker
+
 - [apocas/docker-modem: Docker Remote API network stack driver.](https://github.com/apocas/docker-modem)
+
+##### Developer Tools
+
 - [shobrook/rebound: Command-line tool that instantly fetches Stack Overflow results when an exception is thrown](https://github.com/shobrook/rebound)
+##### Networking
+
+- [ntop/ntopng: Web-based Traffic and Security Network Traffic Monitoring](https://github.com/ntop/ntopng)
 ## Demo, Example and Full Applications
 
 - [zduvall/eDOT: Diagnostic and Outcome Testing for mental health and other helping professionals (full-stack solo project)](https://github.com/zduvall/eDOT)
