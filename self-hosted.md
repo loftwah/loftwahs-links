@@ -40,7 +40,7 @@
 - [berty/berty: Berty is a secure peer-to-peer messaging app that works with or without internet access, cellular data or trust in the network](https://github.com/berty/berty)
 - [RasaHQ/rasa: 💬 Open source machine learning framework to automate text- and voice-based conversations: NLU, dialogue management, connect to Slack, Facebook, and more - Create chatbots and voice assistants](https://github.com/RasaHQ/rasa)
 - [chatwoot/chatwoot: Open-source customer engagement suite, an alternative to Intercom, Zendesk, Salesforce Service Cloud etc. 🔥💬](https://github.com/chatwoot/chatwoot)
-- [polonel/trudesk: Trudesk is an open source help desk/ticketing solution[(https://github.com/polonel/trudesk)
+- [polonel/trudesk: Trudesk is an open source help desk/ticketing solution](https://github.com/polonel/trudesk)
 
 #### Documentation
 
