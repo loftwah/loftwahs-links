@@ -6,6 +6,7 @@
 - [nextcloud/docker: <span class="emoji-outer emoji-sizer"><span class="emoji-inner" style="background: url(chrome-extension://gaoflciahikhligngeccdecgfjngejlh/emoji-data/sheet_apple_32.png);background-position:97.94359576968273% 18.037602820211514%;background-size:5418.75% 5418.75%" data-codepoints="26f4-fe0f"></span></span> Docker image of Nextcloud](https://github.com/nextcloud/docker)
 - [PrivateBin/docker-nginx-fpm-alpine: PrivateBin docker image based on Nginx, php-fpm & Alpine Linux stack](https://github.com/PrivateBin/docker-nginx-fpm-alpine)
 - [appsmithorg/appsmith: Build custom CRUD apps that talk to any API or database. All without HTML or CSS.](https://github.com/appsmithorg/appsmith)
+- [hestiacp/hestiacp: Hestia Control Panel | A lightweight and powerful control panel for the modern web.](https://github.com/hestiacp/hestiacp)
 
 ### NetBox
 
