@@ -70,6 +70,7 @@
 - [RasaHQ/rasa-demo: Sara - the Rasa Demo Bot: An example of a contextual AI assistant built with the open source Rasa Stack](https://github.com/RasaHQ/rasa-demo)
 - [GorvGoyl/Clone-Wars: 100+ open-source clones of popular sites like Airbnb, Amazon, Instagram, Netflix, Tiktok, Spotify, Whatsapp, Youtube etc. See source code, demo links, tech stack, github stars.](https://github.com/GorvGoyl/Clone-Wars)
 - [iluminar/goodwork: Self hosted project management and collaboration tool powered by TALL stack](https://github.com/iluminar/goodwork)
+- [apps/apps at master · electron/apps](https://github.com/electron/apps/tree/master/apps)
 
 ## Operating System Specific
 
