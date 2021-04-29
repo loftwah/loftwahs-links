@@ -169,3 +169,4 @@ This section is for tools and utilities that we are likely to use.
 
 - [carlospolop/hacktricks: Welcome to the page where you will find each trick/technique/whatever I have learnt in CTFs, real life apps, and reading researches and news.](https://github.com/carlospolop/hacktricks)
 - [goldbergyoni/nodebestpractices: The Node.js best practices list (April 2021)](https://github.com/goldbergyoni/nodebestpractices)
+- [denji/awesome-http-benchmark: HTTP(S) benchmark tools, testing/debugging, & restAPI (RESTful)](https://github.com/denji/awesome-http-benchmark)
