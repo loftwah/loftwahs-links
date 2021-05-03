@@ -16,6 +16,7 @@
 - [mengshukeji/Luckysheet: Luckysheet is an online spreadsheet like excel that is powerful, simple to configure, and completely open source.](https://github.com/mengshukeji/Luckysheet)
 - [mindsdb/mindsdb: Predictive AI layer for existing databases.](https://github.com/mindsdb/mindsdb)
 - [portainer/portainer: Making Docker and Kubernetes management easy.](https://github.com/portainer/portainer)
+- [pmqs/Fix-OneDrive-Zip: Fix OneDrive Zip files >4Gig](https://github.com/pmqs/Fix-OneDrive-Zip)
 
 ### Access Management, VPN and SSH
 
