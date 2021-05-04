@@ -1,5 +1,8 @@
 # Funnies I want to keep
 
+- [Programming Horror: Sharing the WTFs](https://www.reddit.com/r/programminghorror/top/?t=all)
+- [Reddit's most historical posts and comments](https://www.reddit.com/r/MuseumOfReddit/top/?t=all)
+
 ## Lazy Genuis
 
 [TupperWolf](https://www.reddit.com/user/TupperWolf/)
