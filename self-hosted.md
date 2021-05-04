@@ -73,7 +73,7 @@
 - [oneinstack/lnmp: LEMP stack/LAMP stack/LNMP stack installation scripts for CentOS/Redhat Debian and Ubuntu](https://github.com/oneinstack/lnmp)
 - [sprintcube/docker-compose-lamp: A basic LAMP stack environment built using Docker Compose.](https://github.com/sprintcube/docker-compose-lamp)
 - [cytopia/devilbox: A modern Docker LAMP stack and MEAN stack for local development](https://github.com/cytopia/devilbox)
-- - [containrrr/watchtower: A process for automating Docker container base image updates.](https://github.com/containrrr/watchtower)
+- [containrrr/watchtower: A process for automating Docker container base image updates.](https://github.com/containrrr/watchtower)
 
 ### Monitoring, Alerts, Network, Metrics and Insights
 
@@ -173,3 +173,4 @@ This section is for tools and utilities that we are likely to use.
 - [goldbergyoni/nodebestpractices: The Node.js best practices list (April 2021)](https://github.com/goldbergyoni/nodebestpractices)
 - [denji/awesome-http-benchmark: HTTP(S) benchmark tools, testing/debugging, & restAPI (RESTful)](https://github.com/denji/awesome-http-benchmark)
 - [ITIL templates](https://gist.github.com/cecil/069f16abd71b1288c812)
+- [avinashkranjan/Amazing-Python-Scripts: 🚀 Curated collection of Amazing Python scripts from Basics to Advance with automation task scripts.](https://github.com/avinashkranjan/Amazing-Python-Scripts)
