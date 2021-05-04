@@ -19,6 +19,7 @@
 - [pmqs/Fix-OneDrive-Zip: Fix OneDrive Zip files >4Gig](https://github.com/pmqs/Fix-OneDrive-Zip)
 - [Sysinternals Utilities - Windows Sysinternals | Microsoft Docs](https://docs.microsoft.com/en-us/sysinternals/downloads/)
 - [readme.so - Easiest Way to Create A README](https://readme.so/)
+- [nvbn/thefuck: Magnificent app which corrects your previous console command.](https://github.com/nvbn/thefuck)
 
 ### Access Management, VPN and SSH
 
