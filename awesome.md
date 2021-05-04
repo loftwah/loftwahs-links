@@ -1,4 +1,4 @@
-# My self-hosted and homelab resources
+# Loftwah's Awesome List
 
 - This is the for the stuff I've used, am using, or, would recommend.
 
