@@ -87,6 +87,8 @@
 - [microsoft/ethr: Ethr is a Comprehensive Network Measurement Tool for TCP, UDP & ICMP.](https://github.com/microsoft/ethr)
 - - [ntop/ntopng: Web-based Traffic and Security Network Traffic Monitoring](https://github.com/ntop/ntopng)
 - [target/goalert: Open source on-call scheduling, automated escalations, and notifications so you never miss a critical alert](https://github.com/target/goalert)
+- [21y4d/nmapAutomator: A script that you can run in the background!](https://github.com/21y4d/nmapAutomator)
+
 ### Security
 
 - [wazuh/wazuh: Wazuh - The Open Source Security Platform](https://github.com/wazuh/wazuh)
