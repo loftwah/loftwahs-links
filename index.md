@@ -2,6 +2,10 @@
 
 - This is the for the stuff I've used, am using, or, would recommend.
 
+## New to go through
+
+- [Yggdroot/LeaderF: An efficient fuzzy finder that helps to locate files, buffers, mrus, gtags, etc. on the fly for both vim and neovim.](https://github.com/Yggdroot/LeaderF)
+
 ## Applications
 
 - [kylemanna/docker-openvpn: OpenVPN server in a Docker container complete with an EasyRSA PKI CA](https://github.com/kylemanna/docker-openvpn)
