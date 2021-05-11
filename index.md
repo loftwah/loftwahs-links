@@ -5,6 +5,7 @@
 ## New to go through
 
 - [Yggdroot/LeaderF: An efficient fuzzy finder that helps to locate files, buffers, mrus, gtags, etc. on the fly for both vim and neovim.](https://github.com/Yggdroot/LeaderF)
+- [daptin/daptin: Daptin - Backend As A Service - GraphQL/JSON-API Headless CMS](https://github.com/daptin/daptin)
 
 ## Applications
 
