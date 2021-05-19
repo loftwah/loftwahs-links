@@ -1,6 +1,12 @@
-# My self-hosted and homelab resources
+# Loftwah's Awesome List
 
 - This is the for the stuff I've used, am using, or, would recommend.
+
+## New to go through
+
+- [Yggdroot/LeaderF: An efficient fuzzy finder that helps to locate files, buffers, mrus, gtags, etc. on the fly for both vim and neovim.](https://github.com/Yggdroot/LeaderF)
+- [daptin/daptin: Daptin - Backend As A Service - GraphQL/JSON-API Headless CMS](https://github.com/daptin/daptin)
+- [sayanarijit/xplr: A hackable, minimal, fast TUI file explorer](https://github.com/sayanarijit/xplr)
 
 ## Applications
 
@@ -16,6 +22,10 @@
 - [mengshukeji/Luckysheet: Luckysheet is an online spreadsheet like excel that is powerful, simple to configure, and completely open source.](https://github.com/mengshukeji/Luckysheet)
 - [mindsdb/mindsdb: Predictive AI layer for existing databases.](https://github.com/mindsdb/mindsdb)
 - [portainer/portainer: Making Docker and Kubernetes management easy.](https://github.com/portainer/portainer)
+- [pmqs/Fix-OneDrive-Zip: Fix OneDrive Zip files >4Gig](https://github.com/pmqs/Fix-OneDrive-Zip)
+- [Sysinternals Utilities - Windows Sysinternals | Microsoft Docs](https://docs.microsoft.com/en-us/sysinternals/downloads/)
+- [readme.so - Easiest Way to Create A README](https://readme.so/)
+- [nvbn/thefuck: Magnificent app which corrects your previous console command.](https://github.com/nvbn/thefuck)
 
 ### Access Management, VPN and SSH
 
@@ -40,7 +50,7 @@
 - [berty/berty: Berty is a secure peer-to-peer messaging app that works with or without internet access, cellular data or trust in the network](https://github.com/berty/berty)
 - [RasaHQ/rasa: 💬 Open source machine learning framework to automate text- and voice-based conversations: NLU, dialogue management, connect to Slack, Facebook, and more - Create chatbots and voice assistants](https://github.com/RasaHQ/rasa)
 - [chatwoot/chatwoot: Open-source customer engagement suite, an alternative to Intercom, Zendesk, Salesforce Service Cloud etc. 🔥💬](https://github.com/chatwoot/chatwoot)
-- [polonel/trudesk: Trudesk is an open source help desk/ticketing solution[(https://github.com/polonel/trudesk)
+- [polonel/trudesk: Trudesk is an open source help desk/ticketing solution](https://github.com/polonel/trudesk)
 
 #### Documentation
 
@@ -71,7 +81,7 @@
 - [oneinstack/lnmp: LEMP stack/LAMP stack/LNMP stack installation scripts for CentOS/Redhat Debian and Ubuntu](https://github.com/oneinstack/lnmp)
 - [sprintcube/docker-compose-lamp: A basic LAMP stack environment built using Docker Compose.](https://github.com/sprintcube/docker-compose-lamp)
 - [cytopia/devilbox: A modern Docker LAMP stack and MEAN stack for local development](https://github.com/cytopia/devilbox)
-- - [containrrr/watchtower: A process for automating Docker container base image updates.](https://github.com/containrrr/watchtower)
+- [containrrr/watchtower: A process for automating Docker container base image updates.](https://github.com/containrrr/watchtower)
 
 ### Monitoring, Alerts, Network, Metrics and Insights
 
@@ -83,6 +93,8 @@
 - [microsoft/ethr: Ethr is a Comprehensive Network Measurement Tool for TCP, UDP & ICMP.](https://github.com/microsoft/ethr)
 - - [ntop/ntopng: Web-based Traffic and Security Network Traffic Monitoring](https://github.com/ntop/ntopng)
 - [target/goalert: Open source on-call scheduling, automated escalations, and notifications so you never miss a critical alert](https://github.com/target/goalert)
+- [21y4d/nmapAutomator: A script that you can run in the background!](https://github.com/21y4d/nmapAutomator)
+
 ### Security
 
 - [wazuh/wazuh: Wazuh - The Open Source Security Platform](https://github.com/wazuh/wazuh)
@@ -168,3 +180,7 @@ This section is for tools and utilities that we are likely to use.
 ## Quick Reference
 
 - [carlospolop/hacktricks: Welcome to the page where you will find each trick/technique/whatever I have learnt in CTFs, real life apps, and reading researches and news.](https://github.com/carlospolop/hacktricks)
+- [goldbergyoni/nodebestpractices: The Node.js best practices list (April 2021)](https://github.com/goldbergyoni/nodebestpractices)
+- [denji/awesome-http-benchmark: HTTP(S) benchmark tools, testing/debugging, & restAPI (RESTful)](https://github.com/denji/awesome-http-benchmark)
+- [ITIL templates](https://gist.github.com/cecil/069f16abd71b1288c812)
+- [avinashkranjan/Amazing-Python-Scripts: 🚀 Curated collection of Amazing Python scripts from Basics to Advance with automation task scripts.](https://github.com/avinashkranjan/Amazing-Python-Scripts)
