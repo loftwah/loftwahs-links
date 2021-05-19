@@ -1,45 +1,8 @@
-# These need to be sorted
-
-node-red/node-red: Low-code programming for event-driven applications
-https://github.com/node-red/node-red
-
-
-
-Budibase/budibase: Budibase is a free and open-source development platform that helps you build internal apps on your own infrastructure, in minutes, not months 🚀
-https://github.com/Budibase/budibase
-
-
-
-
-
-
-
-secdev/scapy: Scapy: the Python-based interactive packet manipulation program & library. Supports Python 2 & Python 3.
-https://github.com/secdev/scapy
-
-
-
 carlospolop/hacktricks: Welcome to the page where you will find each trick/technique/whatever I have learnt in CTFs, real life apps, and reading researches and news.
 https://github.com/carlospolop/hacktricks
 
-public-apis/public-apis: A collective list of free APIs
-https://github.com/public-apis/public-apis
-
 txthinking/brook: Brook is a cross-platform strong encryption and not detectable proxy. Zero-Configuration. Brook 是一个跨平台的强加密无特征的代理软件. 零配置.
 https://github.com/txthinking/brook
-
-
-
-
-
-
-
-kovidgoyal/kitty: Cross-platform, fast, feature-rich, GPU based terminal
-https://github.com/kovidgoyal/kitty
-
-
-
-
 
 ossrs/srs: SRS is a simple, high efficiency and realtime video server, supports RTMP/WebRTC/HLS/HTTP-FLV/SRT/GB28181.
 https://github.com/ossrs/srs
@@ -47,46 +10,14 @@ https://github.com/ossrs/srs
 crowdsecurity/crowdsec: CrowdSec - an open-source massively multiplayer firewall able to analyze visitor behavior & provide an adapted response to all kinds of attacks. It also leverages the crowd power to generate a global IP reputation database to protect the user network.
 https://github.com/crowdsecurity/crowdsec
 
-
-
-
-
 mitchellkrogza/Phishing.Database: Phishing Domains, urls websites and threats database. We use the PyFunceble testing tool to validate the status of all known Phishing domains and provide stats to reveal how many unique domains used for Phishing are still active.
 https://github.com/mitchellkrogza/Phishing.Database
-
-DIYgod/RSSHub: 🍰 Everything is RSSible
-https://github.com/DIYgod/RSSHub
-
-
-
-
-
-
-
-zabbix/zabbix: Real-time monitoring of IT components and services, such as networks, servers, VMs, applications and the cloud.
-https://github.com/zabbix/zabbix
-
-OfficeDev/microsoft-teams-library-js: JavaScript library for use by Microsoft Teams apps
-https://github.com/OfficeDev/microsoft-teams-library-js
 
 ventoy/Ventoy: A new bootable USB solution.
 https://github.com/ventoy/Ventoy
 
-
-
 vimagick/dockerfiles: A collection of delicious docker recipes
 https://github.com/vimagick/dockerfiles
-
-
-
-desktop/desktop: Simple collaboration from your desktop
-https://github.com/desktop/desktop
-
-
-
-
-
-
 
 oldratlee/useful-scripts: 🐌 useful scripts for making developer's everyday life easier and happier, involved java, shell etc.
 https://github.com/oldratlee/useful-scripts
@@ -94,40 +25,8 @@ https://github.com/oldratlee/useful-scripts
 Mettmett/docker-compose: Some examples of docker-compose stacks used on ComputerZ Solutions...
 https://github.com/Mettmett/docker-compose
 
-
-
-
-
 sozu-proxy/sozu: Sōzu HTTP reverse proxy, configurable at runtime, fast and safe, built in Rust. It is awesome! Ping us on gitter to know more
 https://github.com/sozu-proxy/sozu
-
-zero-to-mastery/start-here-guidelines: Lets Git started in the world of opensource, starting in the Zero To Mastery's opensource playground. Especially designed for education and practical experience purposes.
-https://github.com/zero-to-mastery/start-here-guidelines
-
-Ganapati/RsaCtfTool: RSA attack tool (mainly for ctf) - retreive private key from weak public key and/or uncipher data
-https://github.com/Ganapati/RsaCtfTool
-
-excalidraw/excalidraw: Virtual whiteboard for sketching hand-drawn like diagrams
-https://github.com/excalidraw/excalidraw
-
-
-
-
-
-jitsi/jitsi-meet: Jitsi Meet - Secure, Simple and Scalable Video Conferences that you use as a standalone app or embed in your web application.
-https://github.com/jitsi/jitsi-meet
-
-piroor/treestyletab: Tree Style Tab, Show tabs like a tree.
-https://github.com/piroor/treestyletab
-
-scality/Zenko: Zenko is the open source multi-cloud data controller: own and keep control of your data on any cloud.
-https://github.com/scality/Zenko
-
-Chocobozzz/PeerTube: ActivityPub-federated video streaming platform using P2P directly in your web browser
-https://github.com/Chocobozzz/PeerTube
-
-mailbadger/app: Send email campaigns via Amazon SES
-https://github.com/mailbadger/app
 
 go-gitea/gitea: Git with a cup of tea, painless self-hosted git service
 https://github.com/go-gitea/gitea
@@ -143,9 +42,6 @@ https://github.com/prometheus/alertmanager
 
 miniMAC/magic: CSS3 Animations with special effects
 https://github.com/miniMAC/magic
-
-ardatan/graphql-tools: Build, mock, and stitch a GraphQL schema using the schema language
-https://github.com/ardatan/graphql-tools
 
 alecmuffett/real-world-onion-sites: This is a list of substantial, commercial-or-social-good mainstream websites which provide onion services.
 https://github.com/alecmuffett/real-world-onion-sites
@@ -165,9 +61,6 @@ https://github.com/puppeteer/puppeteer
 dice-discord/bot: 🎲 A general purpose utility bot, with an economy, games, and lots of other features.
 https://github.com/dice-discord/bot
 
-AirtestProject/Airtest: UI Automation Framework for Games and Apps
-https://github.com/AirtestProject/Airtest
-
 sitespeedio/sitespeed.io: Sitespeed.io is an open source tool that helps you monitor, analyze and optimize your website speed and performance, based on performance best practices advices from the coach and collecting browser metrics using the Navigation Timing API, User Timings and Visual Metrics (FirstVisualChange, SpeedIndex & LastVisualChange).
 https://github.com/sitespeedio/sitespeed.io
 
@@ -183,14 +76,11 @@ https://github.com/mautic/mautic
 pothi/wordpress-nginx: WordPress specific Nginx configuration templates and best practices!
 https://github.com/pothi/wordpress-nginx
 
-
 nukeop/nuclear: Streaming music player that finds free music for you
 https://github.com/nukeop/nuclear
 
 DNSCrypt/dnscrypt-proxy: dnscrypt-proxy 2 - A flexible DNS proxy, with support for encrypted DNS protocols.
 https://github.com/DNSCrypt/dnscrypt-proxy
-
-
 
 jpillora/cloud-torrent: ☁️ Cloud Torrent: a self-hosted remote torrent client
 https://github.com/jpillora/cloud-torrent
@@ -204,7 +94,6 @@ https://github.com/photoprism/photoprism
 encode/httpx: A next generation HTTP client for Python. 🦋
 https://github.com/encode/httpx
 
-
 benbusby/whoogle-search: A self-hosted, ad-free, privacy-respecting metasearch engine
 https://github.com/benbusby/whoogle-search
 
@@ -213,8 +102,6 @@ https://github.com/sergree/matchering
 
 wordplate/wordplate: WordPlate is a wrapper around WordPress. It makes developers life easier. It is just like building any other WordPress website with themes and plugins. Just with sprinkles on top.
 https://github.com/wordplate/wordplate
-
-
 
 bridgecrewio/checkov: Prevent cloud misconfigurations during build-time for Terraform, Cloudformation, Kubernetes, Serverless framework and other infrastructure-as-code-languages with Checkov by Bridgecrew.
 https://github.com/bridgecrewio/checkov
@@ -227,8 +114,6 @@ https://github.com/kartik-v/bootstrap-fileinput
 
 Chassis/Chassis: 📦 Chassis is a virtual server for your WordPress site, built using Vagrant.
 https://github.com/Chassis/Chassis
-
-
 
 gerbera/gerbera: UPnP Media Server for 2021: Stream your digital media through your home network and consume it on all kinds of UPnP supporting devices 📱💻📺
 https://github.com/gerbera/gerbera
